@@ -1,4 +1,4 @@
-import { SchedulerData } from 'react-big-scheduler';
+import { SchedulerData } from 'react-big-scheduler-tdt-v2';
 
 const sd = new SchedulerData();
 
